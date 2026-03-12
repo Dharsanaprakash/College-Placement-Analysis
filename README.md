@@ -20,7 +20,3 @@ A Power BI dashboard is created to present the analysis in a visual format. It h
 ## Conclusion
 This project demonstrates how data analytics can be used to gain insights into college placement trends and recruitment outcomes using visualization tools.
 
-## Author
-Bhobesh Adhithiyan S G  
-Computer Science Engineering  
-Kongu Engineering College
