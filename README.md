@@ -1,22 +1,37 @@
 # College Placement Analysis
 
 ## Project Overview
-The College Placement Analysis project focuses on analyzing student placement data to understand trends in campus recruitment. The analysis helps identify key factors that influence student placements, salary distribution, and hiring patterns.
-
-## Objective
-The objective of this project is to explore placement data and gain insights into student performance, placement rates, and salary outcomes. The project aims to support data-driven understanding of recruitment trends in educational institutions.
+This project analyzes college placement data to understand recruitment patterns, salary trends, and regional hiring distribution. The analysis focuses on identifying companies hiring the most students and understanding how placement activity has evolved over time
 
 ## Tools Used
-- Power BI
 - Microsoft Excel
-- Data Visualization Techniques
+- Power BI
+- Data Cleaning
+- Pivot Tables
+- Data Visualization
 
 ## Dataset
 The dataset contains information related to student academic performance, placement status, and salary details. The data is used to analyze placement success and visualize trends through dashboards.
 
+## KPI
+**Total Placement Records**
+
+Total Records: **9,918** placement entries analyzed
+
+## Key Insights
+
+- Placement opportunities increased significantly in 2018, indicating a strong hiring trend that year.
+- Infosys, Capgemini, and TCS appear among the top recruiters with the highest placement counts.
+- Pune region accounts for the largest share of placements (41.78%), followed by Mumbai and Navi Mumbai.
+- Some companies such as UI&FS and Nuance offer higher average salary packages compared to others.
+
 ## Dashboard
-A Power BI dashboard is created to present the analysis in a visual format. It helps in understanding placement trends, salary distribution, and student performance metrics.
 
-## Conclusion
-This project demonstrates how data analytics can be used to gain insights into college placement trends and recruitment outcomes using visualization tools.
+![Dashboard](image/dashboard.png)
+The dashboard highlights hiring trends by year, company hiring distribution, regional placement patterns, and average salary offered by recruiters.
 
+## Business Recommendations
+
+- Strengthen industry partnerships with top recruiting companies.
+- Encourage students to prepare for companies offering higher salary packages.
+- Focus training efforts on regions and companies with higher recruitment activity.
