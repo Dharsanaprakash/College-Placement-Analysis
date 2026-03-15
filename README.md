@@ -27,7 +27,7 @@ Total Records: **9,918** placement entries analyzed
 
 ## Dashboard
 
-![Dashboard](image/dashboard.png)
+![Dashboard](dashboard.png)
 The dashboard highlights hiring trends by year, company hiring distribution, regional placement patterns, and average salary offered by recruiters.
 
 ## Business Recommendations
