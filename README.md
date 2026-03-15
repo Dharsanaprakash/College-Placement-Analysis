@@ -10,13 +10,21 @@ This project analyzes college placement data to understand recruitment patterns,
 - Pivot Tables
 - Data Visualization
 
-## Dataset
-The dataset contains information related to student academic performance, placement status, and salary details. The data is used to analyze placement success and visualize trends through dashboards.
+## Dataset Features
 
+The dataset includes the following important fields:
+
+- Company Name
+- College Name
+- Region
+- Salary Package
+- Placement Year
+  
 ## KPI
+
 **Total Placement Records**
 
-Total Records: **9,918** placement entries analyzed
+Total Records Analyzed: **9,918** placement entries 
 
 ## Key Insights
 
